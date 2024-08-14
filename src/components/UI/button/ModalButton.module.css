@@ -1,0 +1,13 @@
+.formBtn {
+	padding: 5px 15px;
+	color: rgb(132, 0, 255);
+	font-size: 14px;
+	background: transparent;
+	border: 1px solid rgb(132, 0, 255);
+	cursor: pointer;
+}
+
+.formBtn:hover {
+	background: rgb(132, 0, 255);
+	color: white;
+}

@@ -1,0 +1,28 @@
+.navbar {
+	height: 50px;
+	width: 100vw;
+	display: flex;
+	align-items: center;
+	background: teal;
+}
+
+.navbar__links {
+	display: flex;
+	align-items: center;
+	margin-left: 15px;
+}
+
+.navbar__links___item {
+	margin-right: 15px;
+	color: white;
+	text-decoration: none;
+	font-size: 16px;
+	padding: 5px;
+	border: 1px solid white;
+	border-radius: 10%;
+}
+
+.navbar__links___item:hover {
+	background: white;
+	color: teal;
+}
